@@ -1,10 +1,10 @@
-tensorflow-cpu==2.13.0
+tensorflow-cpu
+keras
 streamlit
 numpy
 pandas
 scikit-learn
 matplotlib
 Pillow
-
 
 
