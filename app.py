@@ -1,9 +1,8 @@
 import os
 #import keras
-from tensorflow import keras
+import tensorflow as tf
 from tensorflow.keras.models import load_model 
 import streamlit as st 
-import tensorflow as tf
 import numpy as np
 
 st.header('🌹Flower Classification CNN Model🌹')
