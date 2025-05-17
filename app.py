@@ -1,3 +1,4 @@
+pip install requirement.txt
 import os
 #import keras
 import tensorflow as tf
