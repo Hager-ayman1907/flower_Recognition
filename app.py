@@ -1,6 +1,5 @@
-pip install requirement.txt
+!pip install requirement.txt
 import os
-#import keras
 import tensorflow as tf
 from tensorflow.keras.models import load_model 
 import streamlit as st 
